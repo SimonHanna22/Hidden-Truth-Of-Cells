@@ -2,7 +2,6 @@
 
 <br/>
 
-<img src="assets/logo_white.png" alt="OralCancer AI" width="180"/>
 
 <br/>
 <br/>
