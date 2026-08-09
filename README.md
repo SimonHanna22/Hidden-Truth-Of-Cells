@@ -3,11 +3,9 @@
 <br/>
 
 
-<br/>
-<br/>
 
 # OralCancer AI
-
+<br/>
 ### Intelligent Oral Cancer Detection & Segmentation Platform
 
 <br/>
